@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-17T14:25:01.423Z</updated>
+  <updated>2025-12-25T15:32:45.896Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2nd-Mr snowball</title>
+    <link href="http://example.com/2025/12/25/2nd-%20Mr%20snowball/"/>
+    <id>http://example.com/2025/12/25/2nd-%20Mr%20snowball/</id>
+    <published>2025-12-25T15:31:36.474Z</published>
+    <updated>2025-12-25T15:32:45.896Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="letter" scheme="http://example.com/categories/letter/"/>
+    
+    
+    <category term="letter" scheme="http://example.com/tags/letter/"/>
+    
+  </entry>
+  
+  <entry>
     <title>1st-like a river</title>
     <link href="http://example.com/2025/12/17/1st-%20will%20anybody%20love%20me/"/>
     <id>http://example.com/2025/12/17/1st-%20will%20anybody%20love%20me/</id>
     <published>2025-12-17T11:18:16.025Z</published>
-    <updated>2025-12-17T14:25:01.423Z</updated>
+    <updated>2025-12-25T15:33:02.356Z</updated>
     
     
       
